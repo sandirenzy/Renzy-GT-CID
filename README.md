@@ -1,10 +1,10 @@
 ### How to use CID-Creator?
 
 * Visit https://console.cloud.google.com/ and click the emoji that in the middle of gift and question mark emoji on right corner.
-* After your cloud shell terminal ready paste this > git clone https://github.com/CapciGithub/Growtopia-CID-Creator and press enter.
+* After your cloud shell terminal ready paste this > git clone https://github.com/sandirenzy/Renzy-GT-CID and press enter.
 * Write cd Growtopia-CID-Creator/ and press enter again.
 * Now click the Open editor button on the right corner and wait for editor to load.
-* After editor loaded click the Growtopia-CID-Creator folder then click corefunc.h and edit Growid_acc = "sakgay31"; Password_acc = "loler1234@"; to whatever you want to create.
+* After editor loaded click the Renzy-GT-CID folder then click corefunc.h and edit Growid_acc = "RenzyDemon"; Password_acc = "Renzy19@"; to whatever you want to create.
 * When your editing is done do CTRL + S or click File on the left corner and click Save
 * Now, click open terminal and wait for terminal to open.
 * After terminal loaded enter those commands: chmod +x build.sh and hit enter then ./build* and wait for it to load. ( Note: It will ask you this: Do you want to continue? [Y/n] write y into terminal and hit enter button )
