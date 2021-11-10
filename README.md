@@ -2,7 +2,7 @@
 
 * Visit https://console.cloud.google.com/ and click the emoji that in the middle of gift and question mark emoji on right corner.
 * After your cloud shell terminal ready paste this > git clone https://github.com/sandirenzy/Renzy-GT-CID and press enter.
-* Write cd Growtopia-CID-Creator/ and press enter again.
+* Write cd Renzy-GT-CID/ and press enter again.
 * Now click the Open editor button on the right corner and wait for editor to load.
 * After editor loaded click the Renzy-GT-CID folder then click corefunc.h and edit Growid_acc = "RenzyDemon"; Password_acc = "Renzy19@"; to whatever you want to create.
 * When your editing is done do CTRL + S or click File on the left corner and click Save
